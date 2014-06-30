@@ -15,9 +15,14 @@ clicking links, then expecting that the page has the correct content.
 1. Run `bundle install` from the project directory
 1. Import the stories into a new Pivotal Tracker project
 1. Start the first story. Write an acceptance that covers the requirements of the story
-1. Repeat for the remaining stories
+1. Write the code to make the story/test pass. Just get it to work and don't worry too much about how it looks or feels.
+1. Refactor if necessary.
+1. Repeat 4-6 for the remaining stories
 
 ## Getting Help
 
-[This] (https://github.com/gSchool/acceptance-tests-with-sinatra) repo has links to
-Capybara documentation and examples.
+* [Capybara Example] (https://github.com/gSchool/acceptance-tests-with-sinatra)
+* [Capybara Docs](https://github.com/jnicklas/capybara)
+* [Sinatra README](http://www.sinatrarb.com/intro.html)
+* [Sinatra Docs](http://www.sinatrarb.com/documentation.html)
+* [HTTP Verbs](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods)
